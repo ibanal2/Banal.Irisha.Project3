@@ -1,0 +1,132 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.50 0.72
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.00 0.08 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.01 0.00 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.09 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.27 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.11 0.25 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.25 0.14 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.34 0.01 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.04 0.10 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.75 0.52 0.33
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.45 0.25 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.02 0.21 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.48 0.34 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.05 0.00 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.69 0.33 0.33
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert19SG
+illum 4
+Kd 0.99 0.99 0.47
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.23 0.06 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert21SG
+illum 4
+Kd 0.41 0.50 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert22SG
+illum 4
+Kd 0.67 0.66 0.28
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
